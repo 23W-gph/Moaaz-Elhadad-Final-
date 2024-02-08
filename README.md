@@ -7,7 +7,6 @@
 #For enhancing our decision-making process by relying on the more needy areas rather than hypotheses thus better allocation of resources and intense campaigns in the right places, places #with the highest prevalence or witnessing unrealistic increasing trend. 
 #
 #
-#
 #Solution:
 #1-	The first step was to find a comprehensive data set with variables representing the most important health challenges in Chigaco, all variables must be linked to the corresponding area #thus we can easily detect which variable threatening which area. 
 #2-	Multiple data resources were scanned even google search was carried. 
